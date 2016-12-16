@@ -1,0 +1,24 @@
+{
+  "name": "closest5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/exam/exam.js",
+    "benchmark": "./node_modules/exam/exam.js -BT 10000",
+    "coverage": "./node_modules/exam/exam-cover.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerious/closest5.git"
+  },
+  "author": "Sam Eubank <sameubank@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerious/closest5/issues"
+  },
+  "homepage": "https://github.com/zerious/closest5#readme",
+  "devDependencies": {
+    "exam": "1.4.5"
+  }
+}
